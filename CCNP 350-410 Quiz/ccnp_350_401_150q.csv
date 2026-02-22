@@ -1,0 +1,151 @@
+id,domain,type,question,A,B,C,D,answer,explanation,tags
+1,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+2,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+3,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+4,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+5,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+6,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+7,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+8,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+9,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+10,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+11,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+12,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+13,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+14,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+15,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+16,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+17,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+18,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+19,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+20,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+21,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+22,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+23,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+24,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+25,Architecture,single,Which plane is responsible for making routing decisions?,Data plane,Control plane,Management plane,Forwarding plane,B,Routing protocols operate in the control plane.,planes;routing
+26,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+27,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+28,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+29,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+30,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+31,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+32,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+33,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+34,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+35,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+36,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+37,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+38,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+39,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+40,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+41,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+42,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+43,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+44,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+45,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+46,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+47,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+48,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+49,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+50,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+51,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+52,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+53,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+54,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+55,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+56,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+57,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+58,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+59,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+60,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+61,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+62,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+63,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+64,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+65,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+66,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+67,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+68,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+69,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+70,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+71,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+72,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+73,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+74,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+75,Infrastructure,single,Which protocol uses Hello packets to establish neighbor adjacencies?,BGP,OSPF,FTP,SNMP,B,OSPF uses Hello packets to discover neighbors.,ospf;routing
+76,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+77,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+78,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+79,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+80,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+81,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+82,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+83,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+84,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+85,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+86,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+87,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+88,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+89,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+90,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+91,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+92,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+93,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+94,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+95,Virtualization,single,Which technology allows multiple routing tables on a single device?,VLAN,VRF,HSRP,STP,B,VRF enables multiple routing instances.,vrf
+96,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+97,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+98,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+99,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+100,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+101,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+102,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+103,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+104,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+105,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+106,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+107,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+108,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+109,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+110,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+111,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+112,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+113,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+114,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+115,Network Assurance,single,Which protocol exports flow telemetry for monitoring?,NTP,NetFlow/IPFIX,TFTP,Telnet,B,NetFlow/IPFIX exports flow records.,telemetry
+116,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+117,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+118,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+119,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+120,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+121,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+122,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+123,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+124,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+125,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+126,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+127,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+128,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+129,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+130,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+131,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+132,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+133,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+134,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+135,Security,single,Which feature protects against rogue DHCP servers?,Port Security,DHCP Snooping,DAI,ACL,B,DHCP Snooping blocks unauthorized DHCP responses.,dhcp;security
+136,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+137,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+138,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+139,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+140,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+141,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+142,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+143,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+144,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+145,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+146,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+147,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+148,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+149,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
+150,Automation,single,Which tool is commonly used for network automation?,Ansible,STP,EIGRP,HSRP,A,Ansible automates network configurations.,automation
